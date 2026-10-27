@@ -1,3 +1,6 @@
 AADITYA ANAND IS VERY SMART BOY.
 he is very smart and very good at git
+<<<<<<< HEAD
 git is the best subject i have ever studied
+=======
+>>>>>>> feature-branch
