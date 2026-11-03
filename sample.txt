@@ -6,4 +6,7 @@ git is the best subject i have ever studied
 >>>>>>> feature-branch
 you have to do ittt ummmmmmm
 desh ko pagal bana dunga
+<<<<<<< HEAD
 jvxvpo
+=======
+>>>>>>> 80b6394ad5bf17f824d016d1e271e9040715b110
